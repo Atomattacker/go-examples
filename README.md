@@ -1,2 +1,2 @@
 # go-examples
-学习golang
+学习golang。
